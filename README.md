@@ -6,7 +6,6 @@ HTML
 
 The code defines an HTML structure for a web page.
 It includes a title for the webpage, a linked stylesheet (style.css), and the heading "Car Price Prediction."
-It displays a logo image (nttdata.png) within a <div> with the class logo.
 There are two <form> elements within the page, both using the HTTP POST method. The first form doesn't have any visible content and appears to be incomplete or intentionally omitted in your snippet.
 The second form captures input data related to the car attributes that might impact the price prediction.
 Inside the second form, there are several <div> elements with the class input group. Each of these divs contains a label and an input field, allowing users to input values for various car attributes (such as model, year, transmission, mileage, fuel type, tax, MPG, engine size, and make).
